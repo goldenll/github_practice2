@@ -1,0 +1,3 @@
+- making changes
+- Ruby is fun!
+- adding details 
